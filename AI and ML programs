@@ -1,0 +1,63 @@
+# 1. Smart Study Time Allocation Program
+Performance
+This program decides how much time to give each subject.
+AI/ML Used
+Linear Regression
+Decision Trees
+Working
+Input: subject difficulty, exam date, past performance
+Output: recommended study hours
+Example
+If Math is hard + exam is near → more time assigned
+# 2. Adaptive Daily Study Planner
+Performance
+Creates a daily timetable like a diet chart.
+AI/ML Used
+Rule-based + Reinforcement Learning
+Working
+Adjusts plan daily based on:
+Completed tasks
+Missed sessions
+Output
+Updated smart timetable every day
+3. Performance-Based Recommendation System
+Performance
+Suggests what to study next (like recommending healthy food).
+AI/ML Used
+Recommendation System
+Collaborative Filtering
+Working
+Tracks scores/tests
+Suggests weak topics
+# 4. Focus & Break Optimization Program
+Performance
+Maintains a healthy study cycle (like diet + rest).
+AI/ML Used
+Clustering (K-Means)
+Working
+Groups users based on focus patterns
+Suggests:
+Study time (e.g., 50 min)
+Break time (e.g., 10 min)
+# 5. Goal Prediction & Achievement Tracker
+Performance
+Predicts if you will reach your goal.
+AI/ML Used
+Logistic Regression
+How it works
+Input:
+Current progress
+Study hours
+Output:
+Success probability
+# 6. Personalized Study Habit Learning Agent
+Performance
+Learns your study habits over time (like a personalized diet coach).
+AI/ML Used
+Reinforcement Learning
+Neural Networks (basic level)
+Working
+Observes:
+Best study time
+Productivity hours
+Improves plan automatically
